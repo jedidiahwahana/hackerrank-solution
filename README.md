@@ -50,3 +50,7 @@ Implementation | Mini-Max Sum | 10.00
  | Designer PDF Viewer | 20.00
  | Apple and Orange | 10.00
  | Kangaroo | 10.00
+ | Between Two Sets | 10.00
+ | Divisible Sum Pairs | 10.00  
+ | Bon Appetit | 10.00 
+ | Sock Merchant | 10.00 
